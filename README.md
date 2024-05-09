@@ -4,7 +4,7 @@ My name is Diana, i am 19 y.o., i have a car, macbook and iphone
 
 I love programming and i want to be a _frontend-developer_
 
-Also i work in oline-school, i am a teacher of computer scince
+Also i work in online-school, i am a teacher of computer scince
 
 **My favorites:**
 1. i like piones
